@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- order_page colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__order_page_color">#f5f8ff</color>
+	<color name="rectangle_1_color">#3b00ff</color>
+	<color name="rectangle_1754_color">#000000</color>
+	<color name="add_to_cart__color">#ffffff</color>
+	<color name="rectangle_1723_color">#ffffff</color>
+	<color name="_2_color">#353e5a</color>
+	<color name="rectangle_1742_color">#f7f8fc</color>
+	<color name="large_color">#acb5d3</color>
+</resources>

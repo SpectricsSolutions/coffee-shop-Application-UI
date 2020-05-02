@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- your_orders_page strings -->
+
+	<string name="app_name">Your_orders_page</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="checkout_string">CHECKOUT</string>
+	<string name="your_orders_string">Your Orders</string>
+	<string name="cart_string">CART</string>
+	<string name="___2_45_string">$ 2.45</string>
+	<string name="latte_string">Latte</string>
+	<string name="size_string">Size</string>
+	<string name="flavor_string">Flavor</string>
+	<string name="topping_string">Topping</string>
+	<string name="large_string">Large</string>
+	<string name="caramel_string">Caramel</string>
+	<string name="wipped_cream_string">Wipped Cream</string>
+	<string name="total_string">Total</string>
+	<string name="___5_45_string">$ 5.45</string>
+	<string name="___3_00_string">$ 3.00</string>
+	<string name="double_esspresso_string">Double Esspresso</string>
+	<string name="size_ek1_string">Size</string>
+	<string name="flavor_ek1_string">Flavor</string>
+	<string name="topping_ek1_string">Topping</string>
+	<string name="small_string">Small</string>
+	<string name="none_string">None</string>
+	<string name="none_ek1_string">None</string>
+</resources>

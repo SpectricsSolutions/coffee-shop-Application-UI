@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- recent_items strings -->
+
+	<string name="app_name">recent_items</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="good_morning___jennifer__string">Good morning, \
+Jennifer!</string>
+	<string name="___4_50_string">$ 4.50</string>
+	<string name="iced_caramel__mocca__string">Iced Caramel \
+Mocca </string>
+	<string name="___3_45_string">$ 3.45</string>
+	<string name="classic_latte_string">Classic Latte</string>
+	<string name="___2_00_string">$ 2.00</string>
+	<string name="classic_americano_string">Classic Americano</string>
+	<string name="___1_75_string">$ 1.75</string>
+	<string name="hot_lemon_tea_string">Hot Lemon Tea</string>
+	<string name="recent_orders_string">Recent orders</string>
+	<string name="coffee_string">Coffee</string>
+	<string name="tea_string">Tea</string>
+	<string name="home_ek1_string">Home</string>
+</resources>

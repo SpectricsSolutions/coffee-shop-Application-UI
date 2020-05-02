@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- order_page strings -->
+
+	<string name="app_name">order_page</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="add_to_cart__string">Add To Cart </string>
+	<string name="add_to_cart__ek1_string">Add To Cart </string>
+	<string name="_2_string">2</string>
+	<string name="_2_ek1_string">2</string>
+	<string name="size_string">Size</string>
+	<string name="flavor_string">Flavor</string>
+	<string name="topping_string">Topping</string>
+	<string name="large_string">Large</string>
+	<string name="caramel_string">Caramel</string>
+	<string name="wipped_cream_string">Wipped Cream</string>
+	<string name="___4_50_string">$ 4.50</string>
+	<string name="classic_latte_string">Classic Latte</string>
+</resources>

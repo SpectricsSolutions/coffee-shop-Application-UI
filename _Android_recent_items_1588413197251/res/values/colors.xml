@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- recent_items colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__recent_items_color">#f5f8ff</color>
+	<color name="background_color">#eff1fa</color>
+	<color name="rectangle_1_color">#3b00ff</color>
+	<color name="rectangle_1750_color">#000000</color>
+	<color name="good_morning___jennifer__color">#353e5a</color>
+	<color name="scroller_color">#828eb4</color>
+	<color name="rectangle_1742_color">#f7f8fc</color>
+	<color name="recent_orders_color">#eb7a27</color>
+	<color name="coffee_color">#828eb4</color>
+	<color name="rectangle_1707_color">#f8faff</color>
+	<color name="ellipse_343_color">#eb7a27</color>
+</resources>
